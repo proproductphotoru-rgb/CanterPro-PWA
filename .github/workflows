@@ -1,0 +1,5 @@
+name: Deploy PWA
+on: push
+  branches: [main]
+jobs:
+  deploy:
